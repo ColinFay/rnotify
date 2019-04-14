@@ -64,4 +64,4 @@ The returned object from `new_notif()` is the result `processx::process$new()` a
 
 ## CoC
 
-Please note that the `rnotify` project is released with a [Contributor Code of Conduct](CODE_OF_CONDUCT.md). By contributing to this project, you agree to abide by its terms.
+Please note that the `rnotify` project is released with a [Contributor Code of Conduct](CODE_OF_CONDUCT.md). By contributing to this project, you agree to abide by its terms.
