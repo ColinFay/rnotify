@@ -1,0 +1,17 @@
+Package: rnotify
+Title: A Wrapper Around the 'node-notify-cli' module
+Version: 0.0.0.9000
+Authors@R: c(
+    person("Colin", "Fay", email = "contact@colinfay.me", role = c("aut", "cre")),
+    person("Mikael", "Brevik", role = c("cph"), comment = c("Creator of 'node-notify-cli'"))
+    )
+Description: Wrapper around the the 'node-notify-cli' module that allows to send 
+    notifications from R. 
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Suggests: 
+    testthat
+Imports: 
+    processx
+RoxygenNote: 6.1.0
