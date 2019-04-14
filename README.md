@@ -50,6 +50,10 @@ Only title and message are mandatory. Other possible args are:
 The returned object from `new_notif()` is the result
 `processx::process$new()` and can be handled as such.
 
+## Prior work
+
+  - [{notifier}](https://github.com/gaborcsardi/notifier)
+
 ## CoC
 
 Please note that the `rnotify` project is released with a [Contributor
