@@ -33,17 +33,17 @@ Launch notification with:
 ``` r
 library(rnotify)
 new_notif(
-  title = "Computation finished", 
-  message = "Go back to R!"
+  "Ended", 
+  "Come back to R now!"
 )
 ```
+
+![](rnotify.gif)
 
 Only title and message are mandatory. Other possible args are:
 
   - `subtitle` Subtitle of the notification (not available on windows).
-  - `icon` Icon of the notification
   - `sound` Sound of the notification
-  - `time` Time in milliseconds of the notification.
 
 ## Returned object
 

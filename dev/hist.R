@@ -1,4 +1,5 @@
 usethis::use_build_ignore("dev/")
+usethis::use_build_ignore("rnotify.gif")
 
 colin::init_docs()
 
